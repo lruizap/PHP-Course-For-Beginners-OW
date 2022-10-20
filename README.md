@@ -1,3 +1,9 @@
+# Toda la documentación del curso esta subida a mi página de NOTION
+
+[NOTION](https://lruizap.notion.site/Open-Webinars-cbc5d465abf04dbfb7321cd14b44c492)
+
+---
+
 # Curso de PHP para principiantes
 
 Con este curso aprenderás los conceptos básicos del lenguaje de programación PHP, tales como definición de variables, funciones, estructuras de control de flujo y mucho más, con lo que serás capaz de desarrollar sitios web dinámicos.
